@@ -16,7 +16,7 @@ Eğer VS Code ayarlarını/senkronizasyonu sıfırdan başlatmak istiyorsan:
 1. VS Code'da `Settings Sync: Turn Off` yap.
 2. Komut paletinden `Settings Sync: Reset Synced Data` çalıştır (buluttaki eşitlenmiş veriyi temizler).
 3. Gerekirse yerel ayar dosyalarını temizle:
-   - **Windows**: `%APPDATA%\\Code\\User`
+   - **Windows**: `%APPDATA%\Code\User`
    - **macOS**: `~/Library/Application Support/Code/User`
    - **Linux**: `~/.config/Code/User`
 4. VS Code'u yeniden başlat.
