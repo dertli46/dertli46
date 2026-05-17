@@ -7,7 +7,7 @@
 <!---
 dertli46/dertli46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->C# Dilinde oyun kodlamaya çalışıyorum ünity üzerindne.
+--->C# Dilinde oyun kodlamaya çalışıyorum ünity üzerinden.
 
 ## VS Code senkronizasyonunu sıfırlama (kısa rehber)
 
